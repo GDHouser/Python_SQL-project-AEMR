@@ -2,4 +2,4 @@
 
 Link to file is below:
 
-http://localhost:8888/notebooks/AEMO_SQL_Case_Study_For_Galen_Houser_080123.ipynb
+https://1drv.ms/u/c/538b02a8d00f7f48/ESMazOnMkWFGk4ZxmdfR2s4BzUCWUr2Fg0IBw061bpKy3A?e=1kjF0j
